@@ -1,0 +1,19 @@
+{
+  "name": "node_docker",
+  "version": "1.0.0",
+  "description": "Projeto Base para estudo em NodeJS e Docker para utilizar em futuros projetos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinícius Sarmento Costa Siqueira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
